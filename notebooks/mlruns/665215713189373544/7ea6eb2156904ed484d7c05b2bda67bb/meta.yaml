@@ -1,0 +1,15 @@
+artifact_uri: file:///home/phinguyen/projects/mlflow_practice_01/notebooks/mlruns/665215713189373544/7ea6eb2156904ed484d7c05b2bda67bb/artifacts
+end_time: 1702121522911
+entry_point_name: ''
+experiment_id: '665215713189373544'
+lifecycle_stage: active
+run_id: 7ea6eb2156904ed484d7c05b2bda67bb
+run_name: fun-dog-672
+run_uuid: 7ea6eb2156904ed484d7c05b2bda67bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702121521168
+status: 3
+tags: []
+user_id: phinguyen

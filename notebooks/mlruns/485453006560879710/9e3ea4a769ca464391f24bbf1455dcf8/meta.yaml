@@ -1,0 +1,15 @@
+artifact_uri: file:///home/phinguyen/projects/mlflow_practice_01/notebooks/mlruns/485453006560879710/9e3ea4a769ca464391f24bbf1455dcf8/artifacts
+end_time: 1702118738573
+entry_point_name: ''
+experiment_id: '485453006560879710'
+lifecycle_stage: active
+run_id: 9e3ea4a769ca464391f24bbf1455dcf8
+run_name: carefree-smelt-267
+run_uuid: 9e3ea4a769ca464391f24bbf1455dcf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702118736272
+status: 3
+tags: []
+user_id: phinguyen

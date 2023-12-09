@@ -1,0 +1,6 @@
+artifact_location: file:///home/phinguyen/projects/mlflow_practice_01/notebooks/mlruns/485453006560879710
+creation_time: 1702118736124
+experiment_id: '485453006560879710'
+last_update_time: 1702118736124
+lifecycle_stage: active
+name: basic_classifier
