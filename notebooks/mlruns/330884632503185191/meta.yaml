@@ -1,0 +1,6 @@
+artifact_location: file:///home/phiisonfire/projects/mlflow_practice_01/notebooks/mlruns/330884632503185191
+creation_time: 1702151567111
+experiment_id: '330884632503185191'
+last_update_time: 1702151567111
+lifecycle_stage: active
+name: iris_classifier_10-12-23
